@@ -27,7 +27,7 @@ p{
   text-align: center;
   padding: 0 20px;
   line-height: 1.5;
-  font-family: "Comic Sans MS", cursive;
+  font-family: "Comic Sans MS", fantasy;
 }
 
 .box{
@@ -147,3 +147,4 @@ img{
     /* 13 × (140 + 8 gap) */
   }
 }
+
